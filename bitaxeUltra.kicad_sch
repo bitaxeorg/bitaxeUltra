@@ -914,6 +914,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 44.45) (xy 133.35 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50c593a8-e836-498d-8df5-49732f89ad21")
+	)
+	(wire
+		(pts
 			(xy 167.64 110.49) (xy 175.26 110.49)
 		)
 		(stroke
@@ -1231,16 +1241,6 @@
 			(type default)
 		)
 		(uuid "f168a877-7c07-4079-ad4a-1c8d06eeb2c8")
-	)
-	(wire
-		(pts
-			(xy 129.54 44.45) (xy 137.16 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb150e19-1ef3-4ea1-8a17-ed02fd7c8667")
 	)
 	(label "VDD"
 		(at 166.37 83.82 0)
